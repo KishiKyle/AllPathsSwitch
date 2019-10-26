@@ -1,0 +1,8 @@
+C:\Users\k.jones\source\repos\SwitchPaths\SwitchPaths\bin\Debug\netstandard2.0\SwitchPaths.deps.json
+C:\Users\k.jones\source\repos\SwitchPaths\SwitchPaths\bin\Debug\netstandard2.0\SwitchPaths.dll
+C:\Users\k.jones\source\repos\SwitchPaths\SwitchPaths\bin\Debug\netstandard2.0\SwitchPaths.pdb
+C:\Users\k.jones\source\repos\SwitchPaths\SwitchPaths\obj\Debug\netstandard2.0\SwitchPaths.csprojAssemblyReference.cache
+C:\Users\k.jones\source\repos\SwitchPaths\SwitchPaths\obj\Debug\netstandard2.0\SwitchPaths.AssemblyInfoInputs.cache
+C:\Users\k.jones\source\repos\SwitchPaths\SwitchPaths\obj\Debug\netstandard2.0\SwitchPaths.AssemblyInfo.cs
+C:\Users\k.jones\source\repos\SwitchPaths\SwitchPaths\obj\Debug\netstandard2.0\SwitchPaths.dll
+C:\Users\k.jones\source\repos\SwitchPaths\SwitchPaths\obj\Debug\netstandard2.0\SwitchPaths.pdb
